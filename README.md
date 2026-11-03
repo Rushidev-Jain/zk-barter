@@ -2,6 +2,8 @@
 
 Zero knowledge proof that a key/credential is real, wired into an escrow so nobody has to go first and just trust the other person.
 
+```Published on 19th July : 3 contributions [reuploaded reposiotry]```
+
 ## Author
 
 Rushidev Jain  -
